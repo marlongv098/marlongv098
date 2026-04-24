@@ -4,12 +4,11 @@
 **Doctor en Ingeniería** | Matemático | Docente universitario | Investigador en modelado y ML  
 Colombia | 18/09/1981 | marlongv098@gmail.com 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlongv/?skipRedirect=true)  
+[![Rpubs](https://img.shields.io/badge/Rpubs-4176AB?style=flat&logo=r&logoColor=white)](https://rpubs.com/MGomez1)  
+[![CVLAC](https://img.shields.io/badge/CVLAC-scienTI-2C3E50?style=flat)](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001703971)  
+[![ORCID](https://orcid.org/0000-0001-9093-8235)  
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/marlongv)  -->
-[![Rpubs](https://img.shields.io/badge/Rpubs-4176AB?style=flat&logo=r&logoColor=white)](https://rpubs.com/marlongv)  
-[![CVLAC](https://img.shields.io/badge/CVLAC-scienTI-2C3E50?style=flat)](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000000000)  
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0000-0000-0000)  
-
 ---
 
 ## Habilidades técnicas

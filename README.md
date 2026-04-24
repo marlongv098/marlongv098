@@ -2,7 +2,7 @@
 
 
 **Doctor en Ingeniería** | Matemático | Docente universitario | Investigador en modelado y ML  
-Colombia | 18/09/1981 | marlongv098@gmail.com 
+Colombia | marlongv098@gmail.com 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlongv/?skipRedirect=true)  
 [![Rpubs](https://img.shields.io/badge/Rpubs-4176AB?style=flat&logo=r&logoColor=white)](https://rpubs.com/MGomez1)  

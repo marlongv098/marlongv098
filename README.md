@@ -2,7 +2,7 @@
 
 
 **Doctor en Ingeniería** | Matemático | Docente universitario | Investigador en modelado y ML  
-Colombia | 18/09/1981 | marlongv8@gmail.com 
+Colombia | 18/09/1981 | marlongv098@gmail.com 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/marlongv)  

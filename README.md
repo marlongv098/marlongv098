@@ -4,11 +4,6 @@
 **Doctor en Ingeniería** | Matemático | Docente universitario | Investigador en modelado y ML  
 Colombia | marlongv098@gmail.com 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlongv/?skipRedirect=true)  
-[![Rpubs](https://img.shields.io/badge/Rpubs-4176AB?style=flat&logo=r&logoColor=white)](https://rpubs.com/MGomez1)  
-[![CVLAC](https://img.shields.io/badge/CVLAC-scienTI-2C3E50?style=flat)](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001703971)  
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9093-8235)  
-<!-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/marlongv)  -->
 ---
 
 ## Habilidades técnicas
@@ -66,20 +61,23 @@ Colombia | marlongv098@gmail.com
 
 ## Repositorios y notas de clase
 
-- [Hojas de trabajo – Cálculo para ciencias naturales](https://github.com/marlongv/calculo-ciencias-naturales)  
-- [Repositorio – Computación y estructuras discretas I](https://github.com/marlongv/compu-estructuras-discretas)  
-- [Notas de clase – Matemáticas aplicadas II](https://github.com/marlongv/matematicas-aplicadas-2)  
-- [Notas de clase – Computación y estructuras discretas I](https://rpubs.com/marlongv/discretas-i)
+- [Hojas de trabajo – Cálculo para ciencias naturales](https://github.com/marlongv/https://rpubs.com/MGomez1)  
+- [Notas de clase – Matemáticas aplicadas II](https://marlongv098.github.io/Libros/Matematicas_Aplicadas_II/intro.html)  
+- [Notas de clase – Computación y estructuras discretas I](https://marlongv098.github.io/Libros/Estructuras_Discretas_I/intro.html)
+- [Repositorio Estructuras Unidad 1 – Computación y estructuras discretas I](https://github.com/marlongv098/Estructuras20261)
+- [Repositorio Usos de las estructuras unidad 1 en proyectos – Computación y estructuras discretas I](https://github.com/marlongv098/Estructuras)  
+- [Repositorio Integradora – Computación y estructuras discretas I](https://github.com/marlongv098/Estructuras20261)  
 
 ---
 
 ## Perfiles en línea
 
-- [CVLAC (MinCiencias)](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000000000)  
-- [ORCID](https://orcid.org/0000-0000-0000-0000)  
-- [LinkedIn](https://linkedin.com/in/tuusuario)  
-- [GitHub](https://github.com/marlongv)  
-- [Rpubs](https://rpubs.com/marlongv)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlongv/?skipRedirect=true)  
+[![Rpubs](https://img.shields.io/badge/Rpubs-4176AB?style=flat&logo=r&logoColor=white)](https://rpubs.com/MGomez1)  
+[![CVLAC](https://img.shields.io/badge/CVLAC-scienTI-2C3E50?style=flat)](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001703971)  
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9093-8235)  
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/marlongv)  -->
 
 ---
 
